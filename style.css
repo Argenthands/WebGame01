@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.pointer{
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    border: dashed white 3px;
+    width: 80vh;
+    height: 10vh;
+}
+.container{
+    padding: 0;
+    margin: auto;
+    margin-top: 1vh;
+    margin-bottom: 3vh;
+    width: 95vh;
+    height: 95vh;
+    border: dashed black 3px;
+    border-radius: 15px;
+    background-color: #f2f2f2;
+}
+
+#player{
+    width: 5vh;
+    height: 5vh;
+    border: solid black 1px;
+    background-color: aqua;
+    border-radius: 50%;
+}
